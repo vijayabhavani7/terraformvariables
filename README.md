@@ -1,0 +1,2 @@
+# terraformvariables
+variables
